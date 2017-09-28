@@ -1,0 +1,4 @@
+RA35/2014, Maja Gulan
+Projektni zadatak (#117/p20)
+staticka rasuta organizacija sa linearnim traženjem
+lokacija za smeštaj prekoracioca sa fiksnim korakom k

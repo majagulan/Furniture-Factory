@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1494787613 source:c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\main.c
+	<stdio.h>
+	<stdlib.h>
+	"metode.h"
+
+1494787565 c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\metode.h
+	<string.h>
+	"strukture.h"
+
+1494782975 c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\strukture.h
+	<stdio.h>
+	<stdbool.h>
+
+1492569463 source:c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\dalislogpostoji.c
+	"metode.h"
+
+1493266487 source:c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\formiranjepraznedatoteke.c
+	"metode.h"
+
+1494787380 source:c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\izboraktivnedatoteke.c
+	"metode.h"
+
+1492570878 source:c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\logickobrisanje.c
+	"metode.h"
+
+1493275350 source:c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\nadjibaket.c
+	"metode.h"
+
+1493264555 source:c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\prikaznazivaaktivnedatoteke.c
+	"metode.h"
+
+1494788416 source:c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\prikazslogovadatoteke.c
+	"metode.h"
+
+1492570952 source:c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\transformacijakljuca.c
+	"metode.h"
+	"math.h"
+
+1493274475 source:c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\upisnovogslogaudatoteku.c
+	"strukture.h"
+
+1492571005 source:c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\upisibaket.c
+	"metode.h"
+
+1494774782 source:c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\menu.c
+	"metode.h"
+
+1494795584 source:c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\dodajisortirajlistu.c
+	"metode.h"
+	<stdbool.h>
+
+1494794927 source:c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\ispisilistu.c
+	"metode.h"
+
+1494788308 source:c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\ispraznilistu.c
+	"metode.h"
+
+1494787628 source:c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\ucitajsortirajprikazipotezini.c
+	"metode.h"
+
+1494788164 source:c:\users\maja\desktop\fabrika namestaja\fabrikanamestaja\svezaliste.c
+	"metode.h"
+
+1492569463 source:d:\fakulteti\ftn\6. semestar\baze podataka 1\moj projekat\fabrikanamestaja\dalislogpostoji.c
+	"metode.h"
+
+1495091879 d:\fakulteti\ftn\6. semestar\baze podataka 1\moj projekat\fabrikanamestaja\metode.h
+	<string.h>
+	"strukture.h"
+
+1494782975 d:\fakulteti\ftn\6. semestar\baze podataka 1\moj projekat\fabrikanamestaja\strukture.h
+	<stdio.h>
+	<stdbool.h>
+
+1494795584 source:d:\fakulteti\ftn\6. semestar\baze podataka 1\moj projekat\fabrikanamestaja\dodajisortirajlistu.c
+	"metode.h"
+	<stdbool.h>
+
+1494794927 source:d:\fakulteti\ftn\6. semestar\baze podataka 1\moj projekat\fabrikanamestaja\ispisilistu.c
+	"metode.h"
+
+1494795808 source:d:\fakulteti\ftn\6. semestar\baze podataka 1\moj projekat\fabrikanamestaja\ispraznilistu.c
+	"metode.h"
+
+1494787380 source:d:\fakulteti\ftn\6. semestar\baze podataka 1\moj projekat\fabrikanamestaja\izboraktivnedatoteke.c
+	"metode.h"
+
+1492570878 source:d:\fakulteti\ftn\6. semestar\baze podataka 1\moj projekat\fabrikanamestaja\logickobrisanje.c
+	"metode.h"
+
+1494787613 source:d:\fakulteti\ftn\6. semestar\baze podataka 1\moj projekat\fabrikanamestaja\main.c
+	<stdio.h>
+	<stdlib.h>
+	"metode.h"
+
+1494774782 source:d:\fakulteti\ftn\6. semestar\baze podataka 1\moj projekat\fabrikanamestaja\menu.c
+	"metode.h"
+
+1493275350 source:d:\fakulteti\ftn\6. semestar\baze podataka 1\moj projekat\fabrikanamestaja\nadjibaket.c
+	"metode.h"
+
+1493264555 source:d:\fakulteti\ftn\6. semestar\baze podataka 1\moj projekat\fabrikanamestaja\prikaznazivaaktivnedatoteke.c
+	"metode.h"
+
+1494949136 source:d:\fakulteti\ftn\6. semestar\baze podataka 1\moj projekat\fabrikanamestaja\prikazslogovadatoteke.c
+	"metode.h"
+
+1494795518 source:d:\fakulteti\ftn\6. semestar\baze podataka 1\moj projekat\fabrikanamestaja\ucitajsortirajprikazipotezini.c
+	"metode.h"
+
+1493274475 source:d:\fakulteti\ftn\6. semestar\baze podataka 1\moj projekat\fabrikanamestaja\upisnovogslogaudatoteku.c
+	"strukture.h"
+
+1492571005 source:d:\fakulteti\ftn\6. semestar\baze podataka 1\moj projekat\fabrikanamestaja\upisibaket.c
+	"metode.h"
+
+1495075946 source:d:\fakulteti\ftn\6. semestar\baze podataka 1\moj projekat\fabrikanamestaja\formiranjepraznedatoteke.c
+	"metode.h"
+
+1494947139 source:d:\fakulteti\ftn\6. semestar\baze podataka 1\moj projekat\fabrikanamestaja\transformacijakljuca.c
+	"metode.h"
+	"math.h"
+

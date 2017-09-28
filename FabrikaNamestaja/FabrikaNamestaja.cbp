@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="FabrikaNamestaja" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\FabrikaNamestaja" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\FabrikaNamestaja" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="daLiSlogPostoji.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dodajISortirajListu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="formiranjePrazneDatoteke.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ispisiListu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="isprazniListu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="izborAktivneDatoteke.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="logickoBrisanje.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="metode.h" />
+		<Unit filename="nadjiBaket.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="prikazNazivaAktivneDatoteke.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="prikazSlogovaDatoteke.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="strukture.h" />
+		<Unit filename="transformacijaKljuca.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ucitajSortirajPrikaziPoTezini.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="upisNovogSlogaUDatoteku.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="upisiBaket.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
